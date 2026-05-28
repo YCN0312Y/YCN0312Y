@@ -7,23 +7,12 @@
 
 ---
 
-## 💻 C++ 基础
-
-- C++ 面向对象
-- 智能指针
-- 设计模式
-- STL
-- 多线程
-
----
-
 ## 🧰 工具链
 
 - Git / GitHub
 - Visual Studio
 - VSCode
 - Rider
-- Linux
 
 ---
 
