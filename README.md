@@ -10,9 +10,8 @@
 ## 🧰 工具链
 
 - Git / GitHub
-- Visual Studio
-- VSCode
-- Rider
+- Visual Studio / VSCode / Rider
+- Code / Claude Code
 
 ---
 
