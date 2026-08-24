@@ -11,7 +11,7 @@
 
 - Git / GitHub
 - Visual Studio / VSCode / Rider
-- Codex / Claude Code
+- Codex / Claude Code / Hermes
 
 ---
 
