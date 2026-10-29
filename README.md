@@ -9,7 +9,7 @@
 ---
 
 ## 🤖 AI
-- **AI小项目**：[AI-Project](https://github.com/YCN0312Y/AI-Project)
+- **纯AI项目**：[AI-Project](https://github.com/YCN0312Y/AI-Project)
 
 ---
 
