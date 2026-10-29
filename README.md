@@ -4,7 +4,7 @@
 
 - **UE5 C++ 基础**：[LearnUECPP](https://github.com/YCN0312Y/LearnUECPP)
 - **CommonUI插件**：[CommonUI实战](https://github.com/YCN0312Y/CommonUI_YCN.git)
-- **UE 插件学习**：[UEPlugins](https://github.com/YCN0312Y/UEPlugins)
+- **UE 插件**：[UEPlugins](https://github.com/YCN0312Y/UEPlugins)
 
 ---
 
